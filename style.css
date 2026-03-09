@@ -2,3 +2,9 @@ body {
 background: #000000;
 color: ffffff;
 }
+
+.mountains {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
